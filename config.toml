@@ -1,6 +1,6 @@
 baseurl = "https://buwidi.pages.dev/"  # Include trailing slash
 title = "WildanFauzy.com"
-description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
+description = "Stories That Metters"
 #theme = "hugo-swift-theme"
 # theme = "swift"
 author = "Steve Francia"
