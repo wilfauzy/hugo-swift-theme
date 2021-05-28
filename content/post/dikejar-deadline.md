@@ -16,7 +16,7 @@ Rencana ingin menjelajah ke planet lain dan membuat koloni, mencari sebuah tempa
 
 Setiap detik meluncurkan meteor ke bumi biar hangus terbakar, dan tidak ada lagi orang kelaparan dan menderita.
 
-![](artwork-1398927900.jpg)
+![](/img/artwork-1398927900.jpg)
 
 Tapi memang sesuatu yang tidak dilakukan maka tidak akan terjadi kecuali kita mempunyai teko ajaib yang kalo dielus-elus akan keluar sesosok putri duyung seperti wonder woman.
 
@@ -24,7 +24,7 @@ Tapi pagi ini sungguh sial, bangun terlalu pagi uang di dompet sudah tidak ada, 
 
 Membeli satu cangkir kopi indocafe dan sisanya membeli beberapa batang rokok neslite, dan mulai menulis keresahan yang tiada ujungnya.
 
-![](artwork-1398927896.jpg)
+![](/img/artwork-1398927896.jpg)
 
 Setelah beberapa teguk kopi, dan menghisap rokok neslite tenggorokan rasanya pait, dan ingin muntah, tapi tidak jadi sayang rasanya membuang sisa makanan yang ada di dalam perut.
 
