@@ -3,10 +3,6 @@ author: Redaksi
 tags:
 - Note
 date: 2014-10-19T19:26:00Z
-guid: https://wildanfauzy.com/index.php/2014/10/19/bersabtu-malam-bersama-kawan-lama/
-id: 55
-nb_of_words:
-- "379.66666666667"
 title: Bersabtu Malam Bersama Kawan Lama
 url: /bersabtu-malam-bersama-kawan-lama/
 ---
