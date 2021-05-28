@@ -4,8 +4,8 @@ title = "WildanFauzy.com"
 # theme = "swift"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
-canonifyurls = true
-paginate = 4
+canonifyurls = false
+paginate = 8
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
@@ -58,3 +58,22 @@ pygmentsCodefencesGuessSyntax = true
     name = "Go"
     url = "tags/go/"
     weight = 5
+[[menu.main]]
+name = "Search"
+url = "https://search.wildanfauzy.com"
+weight = 100
+[[menu.main]]
+identifier = "Log in"
+name = "Log in"
+url = "https://app.wildanfauzy.com/"
+weight = -120
+[[menu.main]]
+identifier = "Surat"
+name = "Surat"
+url = "https://surat.wildanfauzy.com"
+weight = -119
+[[menu.main]]
+identifier = "Perpus"
+name = "Perpus"
+url = "https:///perpus.wildanfauzy.com"
+weight = -118
